@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "minnie-mouse-photos-109-best-minnie-mouse-images-on-pinterest-wall-papers-clipart-free-download.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "minnie-mouse-photos-109-best-minnie-mouse-images-on-pinterest-wall-papers-clipart-free-download@2x.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "minnie-mouse-photos-109-best-minnie-mouse-images-on-pinterest-wall-papers-clipart-free-download@3x.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
